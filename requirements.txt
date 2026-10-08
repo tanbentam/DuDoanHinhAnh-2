@@ -1,0 +1,8 @@
+torch>=2.0
+numpy
+matplotlib
+pillow
+# Tùy chọn
+# scikit-learn
+# optuna
+gradio>=4.0   # cho demo_app.py
